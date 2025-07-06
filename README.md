@@ -22,7 +22,7 @@ Required Libraries:
   pip install discord.py
 
 
-# Setup
+# ⚙️ Setup
 1) Clone the repository:
   git clone https://github.com/alas-m/DiscordGamblingBot.git
   cd DiscordGamblingBot
