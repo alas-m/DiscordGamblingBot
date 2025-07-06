@@ -1,0 +1,9 @@
+# you can delete this file. it is just for those who want to see how it looks #
+
+`2024-11-02 04:41:54`: `Win by $0.5 in Plinko Balls Game`
+`2024-11-02 04:41:55`: `Win by $1 in Plinko Balls Game`
+`2024-11-02 04:47:29`: `Win by $10.600000000000001 in Dice Game`
+`2024-11-19 01:00:24`: `Loss by $-244.0 in Dice Game`
+`2024-11-19 01:01:07`: `Win by $9970.0 in Plinko Balls Game`
+`2024-11-19 01:01:34`: `Win by $9830.0 in Plinko Balls Game`
+`2024-11-19 01:01:36`: `Win by $10510.0 in Plinko Balls Game`
